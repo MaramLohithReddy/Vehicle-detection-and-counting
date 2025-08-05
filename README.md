@@ -21,7 +21,7 @@ This project performs **real-time vehicle detection and directional counting** (
 │
 ├── 56310-479197605_small.mp4 # Input video file
 ├── output_with_count.mp4 # Output video with overlays
-├── vehicle_counting.py # Python script (optional export)
+├── VehicleDectionandcounting.ipynb # Python script (optional export)
 └── README.md # This file
 
 ## ⚙️ How It Works
