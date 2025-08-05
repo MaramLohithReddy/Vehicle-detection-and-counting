@@ -36,7 +36,7 @@ This project performs **real-time vehicle detection and directional counting** (
 6. **Class-wise Count Maintenance**: Counts are maintained separately for each vehicle class and direction.
 7. **Visualization**: Bounding boxes, centroids, direction lines, and counters are overlaid on video.
 
-##output snapshot
+## output snapshot
 
 <img width="1276" height="691" alt="image" src="https://github.com/user-attachments/assets/6830e423-35d5-4c36-861c-cab7009bd1fe" />
 
